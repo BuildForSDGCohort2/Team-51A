@@ -1,4 +1,7 @@
 # Team-51A
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/38e42f6e044f46a6ac467e927b358d52)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-51A?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-51A&utm_campaign=Badge_Grade_Dashboard)
+
 Team-51A's #BuildForSDG project
 
 ## Why
